@@ -3,3 +3,4 @@ for i in range(1,10):
     print(i*i)
     print(i*i*i)
     print("-----")
+    print("End of the loop")
